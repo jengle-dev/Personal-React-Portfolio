@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
 import Header from './components/Header';
 
 function App() {
@@ -9,6 +8,7 @@ function App() {
       {/* <Navigation />
       <Portfolio />
       <Footer /> */}
+      <h1>Jennifer Engle</h1>
     </div>
   );
 }

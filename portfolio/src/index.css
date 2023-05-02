@@ -1,3 +1,9 @@
+:root {
+  --murrey: #912455;
+  --jasper: #C14E3C;
+  --walnut: #5C5552;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
