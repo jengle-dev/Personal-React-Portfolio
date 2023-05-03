@@ -1,15 +1,11 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
+//virtual DOM powering React and render the app on Line 8 call
 import ReactDOM from 'react-dom';
 import App from './App';
 
-// const root = ReactDOM.createRoot(document.getElementById('root'));
-// root.render(
-//   <React.StrictMode>
-//     <App /> 
-//     {/* app component and App.js is where we load our own stuff */}
-//   </React.StrictMode>
-// );
-
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
