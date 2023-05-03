@@ -8,7 +8,7 @@ const Navigation = (props) => {
   } 
     return (
     <nav>
-        <ul>
+        <ul class="navInline">
             <li onClick={handleClick}>Projects</li>
             <li onClick={handleClick}>About</li>
             <li onClick={handleClick}>Resume</li>

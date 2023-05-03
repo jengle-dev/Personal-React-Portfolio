@@ -5,11 +5,19 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Resume from './components/Resume';
 
+// css for App scope
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './index.css';
+import './custom.css'; 
+
 function App() {
   //clickHandles
   const [page, setPage] = useState('Splash');
   
   function renderPage(){
+    if (page === 'Splash')
+    return <Splash />
+    
     if (page === 'Projects')
     return <Projects />
 

@@ -1,3 +1,10 @@
+:root {
+  --murrey: #912455;
+  --jasper: #C14E3C;
+  --walnut: #5C5552;
+  font-family: 'Montserrat', sans-serif;
+}
+
 .App {
   text-align: center;
 }

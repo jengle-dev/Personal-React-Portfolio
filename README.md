@@ -15,6 +15,11 @@ I designed my logo with the input of my friend Blake and my Dad.
 
 * https://www.tutorialspoint.com/reactjs/index.htm
 * https://www.tutorialspoint.com/reactjs/reactjs_building_deployment.htm
+* https://www.rapidtables.com/web/html/html-codes/html-code-copyright.html
+* https://create-react-app.dev/docs/adding-bootstrap/
+* https://www.tutorialrepublic.com/faq/how-to-change-the-cursor-into-a-hand-pointer-on-hover-using-css.php#:~:text=You%20can%20simply%20use%20the,the%20default%20text%20selection%20cursor.
+* https://stackoverflow.com/questions/885691/how-to-make-a-ul-display-in-a-horizontal-row
+
 
 `npm install serve -g`
 Updating the tool chain. `npm install react-scripts@latest`

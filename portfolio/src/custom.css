@@ -1,0 +1,23 @@
+/* unordered lists need no bullets */
+li {
+    list-style-type: none;
+}
+
+li:hover {
+    cursor: pointer;
+}
+
+.bgDesign {
+    src:url(../public/SVG/Artboard\ 3.svg)
+}
+
+.jenPhoto {
+    src: url(../public/hex_profile.png);
+}
+
+.navInline{
+    display: inline;
+    justify-content: right;   
+    text-align: end; 
+    margin-right: 25px;
+}
