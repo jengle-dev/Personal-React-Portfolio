@@ -1,23 +1,27 @@
 /* unordered lists need no bullets */
 li {
     list-style-type: none;
+    margin: 10px;
+    margin-left: 50px;
 }
 
 li:hover {
     cursor: pointer;
 }
 
-.bgDesign {
-    src:url(../public/SVG/Artboard\ 3.svg)
-}
-
-.jenPhoto {
-    src: url(../public/hex_profile.png);
+nav {
+    background-color: black;
+    margin-left: 500px;
 }
 
 .navInline{
-    display: inline;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 1.25rem;
+    color: white;
+    display: flex;
     justify-content: right;   
     text-align: end; 
-    margin-right: 25px;
+    margin-right: 125px;
+    align-content: space-between;
 }

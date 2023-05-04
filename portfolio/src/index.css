@@ -1,3 +1,4 @@
+
 :root {
   --murrey: #912455;
   --jasper: #C14E3C;
@@ -6,16 +7,15 @@
   font-size: 16px;
 }
 
-.bgDesign {
-  src:url(../public/4x/Artboard\ 3xxxhdpi.png)
-}
-
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #5C5552;
+  background-size: cover;
+  background-image: url(assets/Site_Design_Large_300dpi.png);
+  background-repeat: none;
 }
 
 code {
@@ -29,3 +29,4 @@ footer {
   max-width: 100%;
   text-align: center;
 }
+

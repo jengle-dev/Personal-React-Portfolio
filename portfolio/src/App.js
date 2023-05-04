@@ -4,6 +4,7 @@ import Splash from './components/Splash';
 import About from './components/About';
 import Projects from './components/Projects';
 import Resume from './components/Resume';
+import Footer from './components/Footer';
 
 // css for App scope
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -34,7 +35,7 @@ function App() {
     <div className ="App">
       <Header setPage={setPage} firstName = 'Jennifer' lastName = 'Engle' />
       {renderPage()}
-
+      <Footer />
     </div>
   );
 }
