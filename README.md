@@ -2,17 +2,20 @@
 This will be a Single-Page Application of my personal profile for software development.
 
 ## Visuals
+The initial load will not have main content at this time but will in future deployments.
+![image](https://user-images.githubusercontent.com/117794203/236377315-884181df-220b-40ed-9776-edd293c1c2a1.png)
+
+The Navigation Bar successfully changes views without needing to reload the entirety of the site.
+![image](https://user-images.githubusercontent.com/117794203/236377498-920bec0b-831a-4845-9019-8a18c46f2f89.png)
+
 ### Stylesheets & Logos
 I designed my logo with the input of my friend Blake and my Dad.
 
-* `index.css` is a global stylesheet that is loaded into the main HTML file of your application (index.html). This file is meant for defining styles that will apply to the entire application, regardless of which component or page is being rendered. It is typically used to define base styles for HTML elements like body, html, and a, as well as global styles like colors, typography, and layout.
-*  `App.css` is a local stylesheet that is specific to the App component of your React application. It is used to define styles that apply only to the App component and its child components. This file is imported directly into the App component and its styles are scoped to that component's DOM hierarchy. 
+### Deployed GitHub Pages Link: https://jengle-dev.github.io/Personal-React-Portfolio/
 
+### GitHub Repository: https://github.com/jengle-dev/Personal-React-Portfolio
 
-### Deployed GitHub Pages Link: 
-### Deployed Heroku Link: https://dashboard.heroku.com/apps/jennifer-engle
-
-
+## References
 * https://www.tutorialspoint.com/reactjs/index.htm
 * https://www.tutorialspoint.com/reactjs/reactjs_building_deployment.htm
 * https://www.rapidtables.com/web/html/html-codes/html-code-copyright.html
@@ -20,6 +23,15 @@ I designed my logo with the input of my friend Blake and my Dad.
 * https://www.tutorialrepublic.com/faq/how-to-change-the-cursor-into-a-hand-pointer-on-hover-using-css.php#:~:text=You%20can%20simply%20use%20the,the%20default%20text%20selection%20cursor.
 * https://stackoverflow.com/questions/885691/how-to-make-a-ul-display-in-a-horizontal-row
 
+## Support
+If there are issues with the site, please reach out to me, Jennifer Engle, at j.engle.dev@gmail.com and reference the site's URL. Please provide any screenshots and behavior along with your browser information.
 
-`npm install serve -g`
-Updating the tool chain. `npm install react-scripts@latest`
+## Author
+Jennifer Engle
+* GitHub @jengle-dev https://github.com/jengle-dev
+
+## License
+No License is used on this site.
+
+## Project status
+Sent for initial grading. I plan to continue working on this in the future. 
