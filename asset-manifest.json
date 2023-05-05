@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Personal-React-Portfolio/static/css/main.a4a426d7.css",
-    "main.js": "/Personal-React-Portfolio/static/js/main.20365a12.js",
+    "main.js": "/Personal-React-Portfolio/static/js/main.4ce86252.js",
     "static/media/Hardcore-Memory-Game.png": "/Personal-React-Portfolio/static/media/Hardcore-Memory-Game.8ba8ac54faf61a99aeda.png",
     "static/media/Site_Design_Large_300dpi.png": "/Personal-React-Portfolio/static/media/Site_Design_Large_300dpi.fd70e284a7c794bca0ae.png",
     "static/media/HTML-Profile-Snip.png": "/Personal-React-Portfolio/static/media/HTML-Profile-Snip.017beea2ce61c3ff8ca2.png",
     "static/media/Triple-J-Logo.png": "/Personal-React-Portfolio/static/media/Triple-J-Logo.52c3e7f006106a365fab.png",
     "index.html": "/Personal-React-Portfolio/index.html",
     "main.a4a426d7.css.map": "/Personal-React-Portfolio/static/css/main.a4a426d7.css.map",
-    "main.20365a12.js.map": "/Personal-React-Portfolio/static/js/main.20365a12.js.map"
+    "main.4ce86252.js.map": "/Personal-React-Portfolio/static/js/main.4ce86252.js.map"
   },
   "entrypoints": [
     "static/css/main.a4a426d7.css",
-    "static/js/main.20365a12.js"
+    "static/js/main.4ce86252.js"
   ]
 }
