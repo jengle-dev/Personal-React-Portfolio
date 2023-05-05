@@ -28,5 +28,14 @@ footer {
   max-height: 3rem;
   max-width: 100%;
   text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+/* icons */
+img {
+  display: inline;
+  height: 1.25rem;
+  width: 1.25rem;
 }
 
