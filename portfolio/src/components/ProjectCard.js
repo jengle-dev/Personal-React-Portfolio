@@ -87,6 +87,7 @@ const ProjectCard = () => {
 
                             <p>This is not an html page. This is a command line interface project.</p>
                         </Card.Text>
+                        <Button className='btn btn-dark' variant="primary" href="https://drive.google.com/file/d/1KmyHf6bsI5JnXZKTgV4-F2bCP4WvDR1C/view" target='_blank'>Visit Project Recording</Button>
                         <Button className='btn btn-dark' variant="primary" href="https://github.com/jengle-dev/CLI-Content-Management-System" target='_blank'>Visit GitHub Repo</Button>
                     </Card.Body>
                 </Card>
