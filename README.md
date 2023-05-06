@@ -22,6 +22,8 @@ I designed my logo with the input of my friend Blake and my Dad.
 * https://create-react-app.dev/docs/adding-bootstrap/
 * https://www.tutorialrepublic.com/faq/how-to-change-the-cursor-into-a-hand-pointer-on-hover-using-css.php#:~:text=You%20can%20simply%20use%20the,the%20default%20text%20selection%20cursor.
 * https://stackoverflow.com/questions/885691/how-to-make-a-ul-display-in-a-horizontal-row
+* https://blog.hubspot.com/website/center-an-image-in-html#:~:text=Step%201%3A%20Wrap%20the%20image,to%20a%20fixed%20length%20value.
+* https://www.geeksforgeeks.org/how-to-use-bootstrap-with-react/
 
 ## Support
 If there are issues with the site, please reach out to me, Jennifer Engle, at j.engle.dev@gmail.com and reference the site's URL. Please provide any screenshots and behavior along with your browser information.

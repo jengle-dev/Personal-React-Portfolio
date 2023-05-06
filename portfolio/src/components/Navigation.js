@@ -12,6 +12,7 @@ const Navigation = (props) => {
             <li onClick={handleClick}>Projects</li>
             <li onClick={handleClick}>About</li>
             <li onClick={handleClick}>Resume</li>
+            <li onClick={handleClick}>Home</li>
         </ul>
     </nav>
   )

@@ -10,7 +10,7 @@ function Header(props) {
     return (
         //build the html
         <header>
-            <h1>{props.firstName} {props.lastName}</h1>
+            {/* <h1>{props.firstName} {props.lastName}</h1> */}
             <Navigation setPage={props.setPage}/>
         </header>
         
