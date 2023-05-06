@@ -4,9 +4,11 @@ This will be a Single-Page Application of my personal profile for software devel
 ## Visuals
 The initial load, Splash, will have a brand logo, my name and title along with a navbar and footer. 
 ![image](https://user-images.githubusercontent.com/117794203/236593390-ab8a9cac-afea-4329-9877-c20a78ef73ef.png)
+
 I'd like to float the logo in the upper right corner on large and medium screens for future deployment. 
 
 The Navigation Bar successfully changes views without needing to reload the entirety of the site.
+![image](https://user-images.githubusercontent.com/117794203/236594639-b8d2adda-d45f-4109-986c-8b84f1964a65.png)
 
 
 ### Stylesheets & Logos
