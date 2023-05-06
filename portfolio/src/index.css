@@ -98,3 +98,14 @@ div .container {
 .pdf {
   justify-content: center;
 }
+
+.projectCard {
+  display: inline-flex;
+  margin: 15px;
+  height: fit-content;
+}
+
+.card-header img {
+  width: 200px;
+  height: 100px;
+}
