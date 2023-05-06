@@ -28,7 +28,9 @@ function App() {
 
     if (page === 'Resume')
     return <Resume />
-
+    
+    if (page === 'Home')
+    return <Splash />
   }
 
   return (

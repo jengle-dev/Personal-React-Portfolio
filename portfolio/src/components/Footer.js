@@ -11,8 +11,9 @@ const Footer = () => {
     <p>Jennifer Engle  |  ©2023  |
       {/* react component with link to = */}
     {/* <Link to={"t"}><img className="icon" src={gitHub} alt="github icon" /></Link> |   */}
-    <img className="icon" src={linkedIn} alt="linkedin icon" /> |  
-    <img className="icon" src={insta} alt="instagram icon"/>
+    <img className="icon" src={linkedIn} alt="linkedin icon" /> |    
+    <img className="icon" src={insta} alt="instagram icon"/>  |    
+    <img className="icon" src={gitHub} alt="github icon" />
     </p>
     <p className="icon"></p>
   </footer>  )
