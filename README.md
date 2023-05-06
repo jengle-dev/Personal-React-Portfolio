@@ -35,6 +35,9 @@ If there are issues with the site, please reach out to me, Jennifer Engle, at j.
 Jennifer Engle
 * GitHub @jengle-dev https://github.com/jengle-dev
 
+## Credits
+Thanks again to David Love for your patience and helpfulness. <a href="https://github.com/Cyril1743">@Cyril1743</a>
+
 ## License
 No License is used on this site.
 
