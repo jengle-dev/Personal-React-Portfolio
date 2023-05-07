@@ -5,7 +5,6 @@ This will be a Single-Page Application of my personal profile for software devel
 The initial load, Splash, will have a brand logo, my name and title along with a navbar and footer. 
 ![image](https://user-images.githubusercontent.com/117794203/236593390-ab8a9cac-afea-4329-9877-c20a78ef73ef.png)
 
-I'd like to float the logo in the upper right corner on large and medium screens for future deployment. 
 
 The Navigation Bar successfully changes views without needing to reload the entirety of the site.
 ![image](https://user-images.githubusercontent.com/117794203/236594639-b8d2adda-d45f-4109-986c-8b84f1964a65.png)
@@ -36,10 +35,15 @@ Jennifer Engle
 * GitHub @jengle-dev https://github.com/jengle-dev
 
 ## Credits
-Thanks again to David Love for your patience and helpfulness. <a href="https://github.com/Cyril1743">@Cyril1743</a>
+Thanks again to David Love for your patience and helpfulness. <a href="https://github.com/Cyril1743">@Cyril1743</a>. Thank you also to my Bootcamp instructor, teaching assistants and tutors.
 
 ## License
 No License is used on this site.
 
 ## Project status
 Sent for initial grading. I plan to continue working on this in the future. 
+
+### Roadmap
+* I'd like to float the logo in the upper right corner on large and medium screens for future deployment. 
+* Flex wrap on the Navigation needs to be updated to a hamburger menu dropdown for smaller screens.
+* Bootstrap cards with React needs to have review of the documentation better to understand the image section not displaying more than a couple pixels in height.
