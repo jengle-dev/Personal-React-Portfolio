@@ -16,11 +16,11 @@ const About = () => {
       <div className='aboutInfo socialMedia'>
         <h5>Contact & Social Media Links</h5>
         <ul>
-          <li>Email: j.engle.dev@gmail.com</li>
-          <li>Github: jengle-dev</li>
-          <li>LinkedIn: jennifer-engle</li>
-          <li>Instagram: Personal Account</li>
-          <li>Instagram: Creative Hullaballoo</li>
+          <li>Email: <a href="mailto:j.engle.dev@gmail.com">j.engle.dev@gmail.com</a></li>
+          <li>Github: <a href="https://github.com/jengle-dev" target="_blank">jengle-dev</a></li>
+          <li>LinkedIn: <a href="https://linkedin.com/in/jennifer-engle" target="_blank">jennifer-engle</a></li>
+          <li>Instagram: <a href="https://instagram.com/jengle2984/" target="_blank">Personal Account</a></li>
+          {/* <li>Instagram: Creative Hullaballoo</li> */}
         </ul>
       </div>
     </div>

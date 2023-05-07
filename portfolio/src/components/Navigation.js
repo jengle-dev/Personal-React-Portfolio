@@ -7,10 +7,10 @@ const Navigation = (props) => {
 
   } 
     return (
-    <nav>
-        <ul class="navInline">
-            <li onClick={handleClick}>Projects</li>
+    <nav className='navBar'>
+        <ul className="navInline">
             <li onClick={handleClick}>About</li>
+            <li onClick={handleClick}>Projects</li>
             <li onClick={handleClick}>Resume</li>
             <li onClick={handleClick}>Home</li>
         </ul>

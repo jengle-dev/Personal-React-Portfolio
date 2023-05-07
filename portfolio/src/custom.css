@@ -1,16 +1,13 @@
 /* unordered lists need no bullets */
-li {
-    list-style-type: none;
-    margin: 10px;
-    margin-left: 50px;
-}
-
-li:hover {
-    cursor: pointer;
-}
-
 nav {
     background-color: black;
+    
+}
+
+.navBar li {
+    list-style-type: none;
+    margin: 10px;
+    margin-left: 50px; 
 }
 
 .navInline{
@@ -23,4 +20,34 @@ nav {
     text-align: end; 
     margin-right: 125px;
     align-content: space-between;
+}
+
+.navInline li:hover {
+    cursor: pointer;
+    list-style-type: none;
+    margin: 10px;
+    margin-left: 50px;
+}
+
+.socialMedia li {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    
+  }
+
+a {
+    color: white
+}
+
+a:visited {
+    color: black
+}
+
+a:hover {
+    color: var(--jasper)
+}
+
+.aboutInfo .socialMedia {
+    background-color: black;
 }
