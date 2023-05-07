@@ -45,5 +45,5 @@ Sent for initial grading. I plan to continue working on this in the future.
 
 ### Roadmap
 * I'd like to float the logo in the upper right corner on large and medium screens for future deployment. 
-* Flex wrap on the Navigation needs to be updated to a hamburger menu dropdown for smaller screens.
+* Flex wrap on the Navigation needs to be updated to a hamburger menu dropdown for smaller screens and better UX.
 * Bootstrap cards with React needs to have review of the documentation better to understand the image section not displaying more than a couple pixels in height.
