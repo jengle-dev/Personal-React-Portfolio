@@ -16,6 +16,7 @@ nav {
     font-size: 1.25rem;
     color: white;
     display: flex;
+    flex-wrap: wrap;
     justify-content: right;   
     text-align: end; 
     margin-right: 125px;
