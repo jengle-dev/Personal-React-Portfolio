@@ -41,13 +41,17 @@ a {
 }
 
 a:visited {
-    color: black
+    color:coral;
 }
 
 a:hover {
-    color: var(--jasper)
+    color: var(--jasper);
 }
 
 .aboutInfo .socialMedia {
     background-color: black;
+}
+
+.btn a:visited {
+    color: white;
 }
