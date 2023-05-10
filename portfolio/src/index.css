@@ -40,11 +40,17 @@ footer {
 }
 
 /* images */
-img {
-  display: inline;
-  height: 1.25rem;
-  width: 1.25rem;
+img .card {
+  max-width: 225px;
+  max-height: 225px;
+  background-color: #5C5552;
 }
+
+footer img {
+  display: inline-flex;
+  max-height: 25px;
+  max-width: 25px;
+  }
 
 .logo {
   display: flex;
@@ -101,7 +107,7 @@ div .container {
   height: fit-content;
 }
 
-.card-header img {
+/* .card-header img {
   width: 200px;
   height: 100px;
-}
+} */

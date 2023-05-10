@@ -3,9 +3,13 @@ import React from 'react'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 // images
-import game from "../assets/Hardcore-Memory-Game.png";
-import JJJ from "../assets/Triple-J-Logo.png";
-import profileSnip from "../assets/HTML-Profile-Snip.png"
+import game from '../assets/225 hardcorememorygame.png';
+import JJJ from '../assets/Triple-J-Logo.png';
+import profileSnip from '../assets/225 profilepagehtml.png';
+import demoSiteImg from '../assets/225 demosite.png';
+import flexboxImg from '../assets/225 Flexboxcolumn.png';
+import cliImg from '../assets/225 CLI.png';
+
 
 
 const ProjectCard = () => {
@@ -14,9 +18,9 @@ const ProjectCard = () => {
             <div className='projectCard'>
                 {/* Hardcore Memory Game Team Project */}
                 <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" className='card-header' src={game} alt="Game Snippet" />
+                    <Card.Img variant="top" className='card-img-top' src={game} alt="Game Snippet" />
                     <Card.Body>
-                        <Card.Title>Hardcore Memory Game: Team Project</Card.Title>
+                        <Card.Title className='card-header'>Hardcore Memory Game: Team Project</Card.Title>
                         <Card.Text>
                             HTML, Primer CSS, API Calls, Javascript
                         </Card.Text>
@@ -27,7 +31,7 @@ const ProjectCard = () => {
             {/* Triple J Team Project */}
             <div className='projectCard'>
                 <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" className='card-header' src={JJJ} alt="JJJ Logo" />
+                    <Card.Img variant="top" className='card-img-top' src={JJJ} alt="JJJ Logo" />
                     <Card.Body>
                         <Card.Title>Triple J Event Venue: Team Project</Card.Title>
                         <Card.Text>
@@ -40,7 +44,7 @@ const ProjectCard = () => {
             {/* HTML Profile Page */}
             <div className='projectCard'>
                 <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" className='card-header' src={profileSnip} alt="Profile Snippet" />
+                    <Card.Img variant="top" className='card-img-top' src={profileSnip} alt="Profile Snippet" />
                     <Card.Body>
                         <Card.Title>My HTML Profile Page</Card.Title>
                         <Card.Text>
@@ -53,7 +57,7 @@ const ProjectCard = () => {
             {/* Demo Site */}
             <div className='projectCard'>
                 <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" className='card-header' src="../assets/demosite.png" alt="Old Profile Image" />
+                    <Card.Img variant="top" className='card-img-top' src={demoSiteImg} alt="Old Profile Image" />
                     <Card.Body>
                         <Card.Title>Demo Profile Page</Card.Title>
                         <Card.Text>
@@ -66,7 +70,7 @@ const ProjectCard = () => {
             {/* FlexBox Project */}
             <div className='projectCard'>
                 <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" className='card-header' src="../assets/flexboxcolumn.png" alt="Purple Box with Glow" />
+                    <Card.Img variant="top" className='card-img-top' src={flexboxImg} alt="Purple Box with Glow" />
                     <Card.Body>
                         <Card.Title>Flexbox Project</Card.Title>
                         <Card.Text>
@@ -79,7 +83,7 @@ const ProjectCard = () => {
             {/* CLI Content Management */}
             <div className='projectCard'>
                 <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" className='card-header' src="../assets/CLI-Screenshot.png" alt="Command Line Interface" />
+                    <Card.Img variant="top" className='card-img-top' src={cliImg} alt="Command Line Interface" />
                     <Card.Body>
                         <Card.Title>CLI: Content Management</Card.Title>
                         <Card.Text>
