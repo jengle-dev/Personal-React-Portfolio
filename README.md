@@ -13,9 +13,9 @@ The Navigation Bar successfully changes views without needing to reload the enti
 ### Stylesheets & Logos
 I designed my logo with the input of my friend Blake and my Dad.
 
-### Deployed GitHub Pages Link: https://jengle-dev.github.io/Personal-React-Portfolio/
+### Deployed GitHub Pages Link: <a href="https://jengle-dev.github.io/Personal-React-Portfolio" target="_blank">Click Here</a>
 
-### GitHub Repository: https://github.com/jengle-dev/Personal-React-Portfolio
+### GitHub Repository Link: <a href="https://github.com/jengle-dev/Personal-React-Portfolio" target="_blank">Click Here</a>
 
 ## References
 * https://www.tutorialspoint.com/reactjs/index.htm
