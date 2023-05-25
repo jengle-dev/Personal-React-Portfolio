@@ -9,8 +9,7 @@ import profileSnip from '../assets/225 profilepagehtml.png';
 import demoSiteImg from '../assets/225 demosite.png';
 import flexboxImg from '../assets/225 Flexboxcolumn.png';
 import cliImg from '../assets/225 CLI.png';
-
-
+import jjrBooks from '../assets/jjr-bookstore.png';
 
 const ProjectCard = () => {
     return (
@@ -93,6 +92,20 @@ const ProjectCard = () => {
                         </Card.Text>
                         <Button className='btn btn-dark' variant="primary" href="https://drive.google.com/file/d/1KmyHf6bsI5JnXZKTgV4-F2bCP4WvDR1C/view" target='_blank'>Visit Project Recording</Button>
                         <Button className='btn btn-dark' variant="primary" href="https://github.com/jengle-dev/CLI-Content-Management-System" target='_blank'>Visit GitHub Repo</Button>
+                    </Card.Body>
+                </Card>
+            </div>
+            {/* JJR Bookstore MERN */}
+            <div className='projectCard'>
+                <Card style={{ width: '18rem' }}>
+                    <Card.Img variant="top" className='card-img-top' src={jjrBooks} alt="app layout" />
+                    <Card.Body>
+                        <Card.Title>JJR Bookstore Application</Card.Title>
+                        <Card.Text>
+                            MERN Stack, MongoDB, Express, React, Node.js, Chakra UI, Javascript, Heroku, TypeScript
+                        </Card.Text>
+                        <Button className='btn btn-dark' variant="primary" href="https://drive.google.com/file/d/1XEdTHEoxPKQC2t7ERcHkHQNyDmdBnl5s/view" target='_blank'>Visit Project Recording</Button>
+                        <Button className='btn btn-dark' variant="primary" href="https://github.com/jengle-dev/JJR-Bookstore" target='_blank'>Visit GitHub Repo</Button>
                     </Card.Body>
                 </Card>
             </div>
