@@ -5,7 +5,7 @@ import pdf from '../assets/Jennifer-Engle-Resume-2023.pdf'
 const Resume = () => {
   const downloadPdf = () => {
     // Replace this URL with the URL of your PDF file
-    const src = '';
+    const src = 'src\assets\Resume - J Engle.pdf';
     window.open(pdf);
   };
 
