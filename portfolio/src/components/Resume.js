@@ -1,11 +1,11 @@
 import React from 'react';
-import pdf from '../assets/Resume - J Engle.pdf';
+import pdf from '../assets/Resume Oct 2023 - J Engle.pdf';
 
 
 const Resume = () => {
   const downloadPdf = () => {
     // Replace this URL with the URL of your PDF file
-    const src = 'src/assets/Resume - J Engle.pdf';
+    const src = 'src/assets/Resume Oct 2023 - J Engle.pdf';
     window.open(pdf);
   };
 
